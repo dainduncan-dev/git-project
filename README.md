@@ -1,3 +1,1 @@
-#README
-
-Code for my_file
+AWS_Secret=131234145123
