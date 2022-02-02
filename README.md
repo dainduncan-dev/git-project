@@ -1,1 +1,3 @@
-AWS_Secret=131234145123
+#My git project
+
+>Code for the git project
